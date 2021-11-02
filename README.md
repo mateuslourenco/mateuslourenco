@@ -3,9 +3,9 @@
 Hello! I'm Mateus Lourenco <img src="https://media0.giphy.com/media/13POHBrQwej54bj04I/giphy.gif" width="50">
 </h1>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mateuslourenco&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=mateuslourenco&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslourenco&layout=compact" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslourenco&layout=compact" />
 
 <img align="left" width="10%" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" width="10%" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
