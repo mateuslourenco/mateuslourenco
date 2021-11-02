@@ -9,7 +9,7 @@ Hello! I'm Mateus Lourenco <img src="https://media0.giphy.com/media/13POHBrQwej5
 
 <img align="left" width="10%" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" width="10%" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img width="10%" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+<img width="9%" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 
 ### <br /> 🙋‍♂️ Contact me
 <a href="https://www.linkedin.com/in/mateus-louren%C3%A7o-12456b103/">
