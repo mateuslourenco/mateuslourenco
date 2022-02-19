@@ -4,8 +4,20 @@ Hello! I'm Mateus Lourenco <img src="https://media0.giphy.com/media/13POHBrQwej5
 </h1>
 
 <div>
+    <p>Estou em busca do meu primeiro emprego como programador web
+      back-end. No momento estudo python e o framework django.
+      Desenvolvi projetos de cursos, projetos pessoais e scripts para
+      facilitar meu trabalho como suporte técnico. Possuo experiência de
+      cinco anos na área de suporte. com isso, desenvolvi um perfil
+      analítico, focado em resolução de problemas técnicos e com bom
+      raciocínio lógico. Possuo um bom desempenho em trabalhos em
+      equipe e tenho facilidade em aprender, por este motivo, sempre atuei
+      em posições de destaque dentro dos times, seja para replicar
+      conhecimento ou para exercer atividades com maior impacto.
+    </p>
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=mateuslourenco&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
   <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslourenco&layout=compact&theme=tokyonight" />
+
 </div>
 
 ## 🛠️ Stacks
