@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media0.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="28">
-Hello! I'm Mateus Lourenco <img src="https://media0.giphy.com/media/13POHBrQwej54bj04I/giphy.gif" width="50">
+Olá! Eu sou o Mateus Lourenço <img src="https://media0.giphy.com/media/13POHBrQwej54bj04I/giphy.gif" width="50">
 </h1>
 
 <div>
@@ -34,7 +34,7 @@ Hello! I'm Mateus Lourenco <img src="https://media0.giphy.com/media/13POHBrQwej5
 
 
 
-## 🙋‍♂️ Contact me
+## 🙋‍♂️ Contato
 
 <a href="https://www.linkedin.com/in/mateus-louren%C3%A7o-12456b103/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
