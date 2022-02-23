@@ -16,7 +16,7 @@ Olá! Eu sou o Mateus Lourenço <img src="https://media0.giphy.com/media/13POHBr
       conhecimento ou para exercer atividades com maior impacto.
     </p>
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=mateuslourenco&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
-  <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslourenco&layout=compact&theme=tokyonight" />
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslourenco&layout=compact&theme=tokyonight" />
 
 </div>
 
