@@ -28,7 +28,7 @@ Olá! Eu sou o Mateus Lourenço <img src="https://media0.giphy.com/media/13POHBr
   [![Git](https://img.shields.io/badge/git-1A1B26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/github-1A1B26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   [![GitHub Actions](https://img.shields.io/badge/githubactions-1A1B26?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-  [![TravisCI](https://img.shields.io/badge/travisci-1A1B26?style=for-the-badge&logo=travis&logoColor=white)](https://www.travis-ci.com/)
+  [![TravisCI](https://img.shields.io/badge/travisci-1A1B26?style=for-the-badge&logo=travisci&logoColor=white)](https://www.travis-ci.com/)
   [![Heroku](https://img.shields.io/badge/heroku-1A1B26?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
   [![PyCharm](https://img.shields.io/badge/pycharm-1A1B26?style=for-the-badge&logo=pycharm&logoColor=white&lack&)](https://www.jetbrains.com/pt-br/pycharm/)
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-1A1B26?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
