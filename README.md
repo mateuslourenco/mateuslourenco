@@ -33,7 +33,7 @@ Olá! Eu sou o Mateus Lourenço <img src="https://media0.giphy.com/media/13POHBr
   [![PyCharm](https://img.shields.io/badge/pycharm-1A1B26?style=for-the-badge&logo=pycharm&logoColor=A981D8&lack&)](https://www.jetbrains.com/pt-br/pycharm/)
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-1A1B26?style=for-the-badge&logo=ubuntu&logoColor=A981D8)](https://ubuntu.com/)
 
-## 🙋‍♂️ Contato
+## 📫 Contato
 
 <a href="https://www.linkedin.com/in/mateus-louren%C3%A7o-12456b103/">
   <img src="https://img.shields.io/badge/linkedin-1A1B26?style=for-the-badge&logo=linkedin&logoColor=A981D8" />
