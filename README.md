@@ -5,7 +5,7 @@ Olá! Eu sou o Mateus Lourenço <img src="https://media0.giphy.com/media/13POHBr
 
 <div>
     <p>Estou em busca do meu primeiro emprego como programador web
-      back-end. No momento estudo python e o framework django.
+      back-end. No momento estudo python e o framework's django e FastAPI.
       Desenvolvi projetos de cursos, projetos pessoais e scripts para
       facilitar meu trabalho como suporte técnico. Possuo experiência de
       cinco anos na área de suporte. com isso, desenvolvi um perfil
