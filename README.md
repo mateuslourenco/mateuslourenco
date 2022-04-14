@@ -4,16 +4,8 @@ Olá! Eu sou o Mateus Lourenço <img src="https://media0.giphy.com/media/13POHBr
 </h1>
 
 <div>
-    <p>Estou em busca do meu primeiro emprego como programador web
-      back-end. No momento estudo python e o framework's django e FastAPI.
-      Desenvolvi projetos de cursos, projetos pessoais e scripts para
-      facilitar meu trabalho como suporte técnico. Possuo experiência de
-      cinco anos na área de suporte. com isso, desenvolvi um perfil
-      analítico, focado em resolução de problemas técnicos e com bom
-      raciocínio lógico. Possuo um bom desempenho em trabalhos em
-      equipe e tenho facilidade em aprender, por este motivo, sempre atuei
-      em posições de destaque dentro dos times, seja para replicar
-      conhecimento ou para exercer atividades com maior impacto.
+    <p>Desenvolvedor web back-end. Atualmente trabalho com python, django, django restframework, javascript e vue.js</p>
+    <p>Possuo experiência de cinco anos na área de suporte. com isso, desenvolvi um perfil analítico, focado em resolução de problemas técnicos e com bom raciocínio lógico. Tenho um bom desempenho em trabalhos em equipe e facilidade em aprender, por este motivo, sempre atuei em posições de destaque dentro dos times, seja para replicar conhecimento ou para exercer atividades com maior impacto.
     </p>
     <a href='https://github.com/mateuslourenco'>
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mateuslourenco&hide=contribs&count_private=true&theme=tokyonight&show_icons=true)]" />
