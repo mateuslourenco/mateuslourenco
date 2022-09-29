@@ -4,8 +4,11 @@ Olá! Eu sou o Mateus Lourenço <img src="https://media0.giphy.com/media/13POHBr
 </h1>
 
 <div>
-    <p>Desenvolvedor web back-end. Atualmente trabalho com python, django, django restframework, javascript e vue.js</p>
-    <p>Possuo experiência de cinco anos na área de suporte. com isso, desenvolvi um perfil analítico, focado em resolução de problemas técnicos e com bom raciocínio lógico. Tenho um bom desempenho em trabalhos em equipe e facilidade em aprender, por este motivo, sempre atuei em posições de destaque dentro dos times, seja para replicar conhecimento ou para exercer atividades com maior impacto.
+    <p>Desenvolvedor Jr na <a href="https://www.altave.com.br/" target="_blank">Altave</a>
+    <br>
+    Atualmente trabalho com Node.js e Vue.
+    <br>
+    Além disso, possuo experiência com Python e Django
     </p>
     <a href='https://github.com/mateuslourenco'>
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mateuslourenco&hide=contribs&count_private=true&theme=tokyonight&show_icons=true)]" />
@@ -13,15 +16,25 @@ Olá! Eu sou o Mateus Lourenço <img src="https://media0.giphy.com/media/13POHBr
     </a>
 </div>
 
-## 🛠️ Stacks
+
+## 💻 Linguaguens
   [![Python](https://img.shields.io/badge/python-1A1B26?style=for-the-badge&logo=python&logoColor=A981D8)](https://www.python.org/)
+  [![Javascript](https://img.shields.io/badge/Javascript-1A1B26?style=for-the-badge&logo=Javascript&logoColor=A981D8)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  
+
+## 🛠️ Ferramentas
   [![Django](https://img.shields.io/badge/django-1A1B26?style=for-the-badge&logo=django&logoColor=A981D8)](https://www.djangoproject.com/)
   [![Flask](https://img.shields.io/badge/flask-1A1B26?style=for-the-badge&logo=flask&logoColor=A981D8)](https://flask.palletsprojects.com/en/2.0.x/)
   [![Fast API](https://img.shields.io/badge/fast%20API-1A1B26?style=for-the-badge&logo=fastapi&logoColor=A981D8)](https://fastapi.tiangolo.com/)
-  [![Git](https://img.shields.io/badge/git-1A1B26?style=for-the-badge&logo=git&logoColor=A981D8)](https://git-scm.com/)
+  [![Node](https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=Node.js&logoColor=A981D8)](https://nodejs.org/en/)
+  [![Vue.JS](https://img.shields.io/badge/Vue.JS-1A1B26?style=for-the-badge&logo=Vue.js&logoColor=A981D8)](https://vuejs.org/)
+  [![Vuetify](https://img.shields.io/badge/Vuetify-1A1B26?style=for-the-badge&logo=Vuetify&logoColor=A981D8)](https://vuetifyjs.com/en/)
+  [![Buefy](https://img.shields.io/badge/Buefy-1A1B26?style=for-the-badge&logo=Buefy&logoColor=A981D8)](https://buefy.org/)
+  [![Bulma](https://img.shields.io/badge/Bulma-1A1B26?style=for-the-badge&logo=Bulma&logoColor=A981D8)](https://bulma.io/)
+    [![Git](https://img.shields.io/badge/git-1A1B26?style=for-the-badge&logo=git&logoColor=A981D8)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/github-1A1B26?style=for-the-badge&logo=github&logoColor=A981D8)](https://github.com/)
   [![GitHub Actions](https://img.shields.io/badge/github%20actions-1A1B26?style=for-the-badge&logo=githubactions&logoColor=A981D8)](https://github.com/features/actions)
-  [![TravisCI](https://img.shields.io/badge/travisci-1A1B26?style=for-the-badge&logo=travisci&logoColor=A981D8)](https://www.travis-ci.com/)
+  [![Firebase](https://img.shields.io/badge/firebase-1A1B26?style=for-the-badge&logo=firebase&logoColor=A981D8)](https://firebase.google.com/)
   [![Heroku](https://img.shields.io/badge/heroku-1A1B26?style=for-the-badge&logo=heroku&logoColor=A981D8)](https://www.heroku.com/)
   [![PyCharm](https://img.shields.io/badge/pycharm-1A1B26?style=for-the-badge&logo=pycharm&logoColor=A981D8&lack&)](https://www.jetbrains.com/pt-br/pycharm/)
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-1A1B26?style=for-the-badge&logo=ubuntu&logoColor=A981D8)](https://ubuntu.com/)
