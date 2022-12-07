@@ -6,9 +6,7 @@ Olá! Eu sou o Mateus Lourenço <img src="https://media0.giphy.com/media/13POHBr
 <div>
     <p>Desenvolvedor Jr na <a href="https://www.altave.com.br/" target="_blank">Altave</a>
     <br>
-    Atualmente trabalho com Node.js e Vue.
-    <br>
-    Além disso, possuo experiência com Python e Django
+    Atualmente trabalho com Node.js, Vue, Python e Django REST Framework.
     </p>
     <a href='https://github.com/mateuslourenco'>
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mateuslourenco&hide=contribs&count_private=true&theme=tokyonight&show_icons=true)]" />
